@@ -2,18 +2,7 @@
 
 Assignment for Module 9 --- Version Control
 
-## EUID
-am3287
-## Favorite Professor
-asdf
-## EUID
-am3287
-## Favorite Professor
-abcdef
-## EUID
-am3287
-## Favorite Professor
-ufildbfuil
+
 ## EUID
 Jrh0642
 ## Favorite Professor
